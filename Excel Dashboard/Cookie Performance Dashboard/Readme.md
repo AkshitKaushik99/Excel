@@ -1,4 +1,4 @@
-Performance Dashboard 🍪📊
+# Performance Dashboard 🍪📊
 The Cookie Sales Performance Dashboard is a visually appealing and informative tool designed to analyze the performance of cookie sales based on profit, sales, and units sold per month. This dashboard empowers business owners and stakeholders to make data-driven decisions, track key metrics, and gain valuable insights into the success of their cookie sales operations.
 
 Key Features:
